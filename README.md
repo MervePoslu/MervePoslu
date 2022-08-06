@@ -7,7 +7,7 @@
 ### Connect with me : 
 
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/l41Yzkvl2h3roxkuk/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/l41Yzkvl2h3roxkuk/giphy.gif" width="200"/>
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/merve-poslu-31230a141/)
@@ -18,7 +18,7 @@
 
 
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width="200"/>
 </div>
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
